@@ -12,7 +12,7 @@ Cinescore is an experimental Image-to-Music generation pipeline. It extracts vis
 The easiest way to run this project with GPU acceleration is via Google Colab.
 
 1. Create a new Google Colab notebook and set the runtime to **T4 GPU**.
-2. Upload `Cinescore_Colab.ipynb` to Colab and follow the instructions in the notebook.
+2. Upload `cinescore.ipynb` to Colab and follow the instructions in the notebook.
 3. The notebook handles all dependency installations, model downloading, and launching the Streamlit interface via `ngrok` or Colab proxy.
 
 ## Running Locally
