@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output directories
+outputs/
+*.wav
+
+# Environment variables
+.env
+
+# MacOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Distribution / packaging
+cinescore_project.zip
+dist/
+build/
+*.egg-info/
+
+# Documentation created locally
+OBJECTIVES.md
+ARCHITECTURE.md
